@@ -1,0 +1,28 @@
+# Ignore Python virtual environments
+env/
+venv/
+ENV/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore dependency caches
+*.egg-info/
+*.dist-info/
+.Python
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files
+*.log
+
+# Ignore large model files (if applicable)
+*.h5
+*.bin
