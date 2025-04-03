@@ -1,7 +1,7 @@
 
 # Age, Gender, and Emotion Detection Using AI
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Age+Gender+Emotion+Detection)  
+![image alt](https://github.com/Jerin-Romijah-Tuli/Gender-Age-Emotion-Detectation/blob/514b57abafa210cc5bde1bf3faa2ebfa5e5843dc/image%20(1).jpg)  
 *Unlock the power of AI to detect age, gender, and emotions in real-time or from images!*
 
 ---
